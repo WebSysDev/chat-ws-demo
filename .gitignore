@@ -1,0 +1,5 @@
+.idea/
+.git/
+node_modules/
+chat.db
+package-lock.json
