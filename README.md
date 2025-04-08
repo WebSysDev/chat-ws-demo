@@ -1,4 +1,4 @@
-Live demo: https://chat-ws-demo.herokuapp.com/
+Live demo: https://chat-ws-demo.onrender.com/
 
 ```javascript
 {
